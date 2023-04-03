@@ -27,6 +27,6 @@ Food: Ramen
 
  Hodor! Hodor hodor. HODOR? Hodor, hodor. Hodor. Hodor. HODOR HODOR! Hodor! Hodor hodor. HODOR hodor, hodor. Hodor hodor. HODOR HODOR! Hodor hodor HODOR! Hodor.
 
-##Schmarn
+## Schmarn
 
 Hier könnte ihr Hodor stehen!
